@@ -68,8 +68,8 @@ Next steps
 - Fix issues.
  
  
- License
---------
+License
+-----------------
 
     Copyright 2017 Fernando Cejas
 
